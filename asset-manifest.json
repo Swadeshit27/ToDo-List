@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Swadeshit27/ToDo-List/static/css/main.9205d3d5.css",
+    "main.js": "/Swadeshit27/ToDo-List/static/js/main.b1c5b067.js",
+    "index.html": "/Swadeshit27/ToDo-List/index.html",
+    "main.9205d3d5.css.map": "/Swadeshit27/ToDo-List/static/css/main.9205d3d5.css.map",
+    "main.b1c5b067.js.map": "/Swadeshit27/ToDo-List/static/js/main.b1c5b067.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9205d3d5.css",
+    "static/js/main.b1c5b067.js"
+  ]
+}
